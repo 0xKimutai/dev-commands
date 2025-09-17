@@ -13,5 +13,5 @@ Instead of searching online each time, keep your essential commands organized he
 Make a script executable and run it:
 ```sh
 chmod +x foundry-cheatsheet.sh
-./smart-contracts.sh
+./foundry-cheatsheet.sh
 ```
